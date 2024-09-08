@@ -48,7 +48,7 @@ pip3 install -r requirements.txt
 ```
 
 ### Note
-For training please refer to `core/train.py`, and for testing please refer to `notebook/wake_word_notebook.ipynb`
+For training please refer to `core/train.py`, and for testing please refer to `core/notebook/wake_word_sample_usage.ipynb`
 
 ## 🛠️ Script Arguments
 There are a few places for potential adjustments. Below contains a list of possible arguments. 
