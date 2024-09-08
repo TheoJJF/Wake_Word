@@ -2,14 +2,6 @@
 
 This repository contains a wake word detection model along with a pre-trained weights file. Given raw audio data, a chime will sound after the word "activate".
 
-Original WAV File:
-
-<audio src="audio/1.wav" controls preload></audio>
-
-Predicted WAV File:
-
-
-
 ## Model1's Architecture:
 
 1. Conv1D layer
