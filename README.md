@@ -2,6 +2,16 @@
 
 This repository contains a wake word detection model along with a pre-trained weights file. Given raw audio data, a chime will sound after the word "activate".
 
+### Original Sample
+[Original File](https://theojjf.github.io/Wake_Word/audio/1.wav)
+
+### Prediction on Original Sample
+[Predictions](https://theojjf.github.io/Wake_Word/audio/chime_output.wav)
+
+
+
+
+
 ## Model1's Architecture:
 
 1. Conv1D layer
