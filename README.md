@@ -4,10 +4,9 @@ This repository contains a wake word detection model along with a pre-trained we
 
 Original WAV File:
 
-
+<audio src="audio/1.wav" controls preload></audio>
 
 Predicted WAV File:
-
 
 
 
